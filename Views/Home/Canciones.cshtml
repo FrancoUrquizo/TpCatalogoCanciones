@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "ViewBag.VBDisco.nombre";
+}
+
+<header>
+<div>
+    
+   
+<h2>"Artista: "@ViewBag.VBDisco.Artista</h2>    
+<h2>"Género: "@ViewBag.VBDisco.Genero</h2>    
+<h2>"Productor: "@ViewBag.VBDisco.Productor</h2>     
+
+<img src="@ViewBag.VBDisco.Foto"alt=" foto del logo de la pagina ">
+</div>
+</header>
+<body>
+@foreach ( Canciones cancion in ViewBag.VBDisco.CancionesD1)
+{
+   <ol> <h2>@cancion.Nombre</h2> </ol>        
+}
+
+</body>

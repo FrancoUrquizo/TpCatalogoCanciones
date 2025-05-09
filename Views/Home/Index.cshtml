@@ -1,8 +1,31 @@
 ﻿@{
     ViewData["Title"] = "Index";
+    
 }
-
+ <link rel ="stylesheet" href="css/Estilo.css">
+ <a href= '@Url.Action("Index", "Home")' alt = "Ir al "> Inicio</a>
+<header>
 <div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
+    <h1>The best MusicStore</h1>
+    <p>Aca vas a encontrar los mejores 10 discos existentes</p>
+    <img src="/imagenes/logopagina.jpg " alt="foto del logo de la pagina sbv">
 </div>
+</header>
+    <div class = "todo">
+       <h2> Catálogo de Discos </h2>
+    
+          @foreach (int id in ViewBag.VBIndex.Keys)
+         {
+              <div class = "infoDisco">
+         <img src="@ViewBag.VBIndex[id].Foto" alt= "foto de Disco">
+         <h2>@ViewBag.VBIndex[id].Nombre</h2>    
+         <p>Artista: @ViewBag.VBIndex[id].Artista</p>    
+         <p>Genero: @ViewBag.VBIndex[id].Genero</p>    
+         <p>Productor: @ViewBag.VBIndex[id].Productor</p>    
+            
+         <a href= '@Url.Action("SelectDisco", "Home", new {Id = id})' alt = "Disco" > Ver Disco Completo</a>
+            </div>
+          }
+     
+      
+   </div>
