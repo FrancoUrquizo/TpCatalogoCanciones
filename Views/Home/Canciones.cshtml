@@ -1,22 +1,35 @@
 @{
-    ViewData["Title"] = "ViewBag.VBDisco.nombre";
+    ViewData["Title"] = "Canciones";
 }
+  <link rel="stylesheet" href="/css/Canciones.css">
 
 <header>
-<div>
-    
-   
-<h2>"Artista: "@ViewBag.VBDisco.Artista</h2>    
-<h2>"Género: "@ViewBag.VBDisco.Genero</h2>    
-<h2>"Productor: "@ViewBag.VBDisco.Productor</h2>     
+  
+  <a href= '@Url.Action("Index", "Home")' alt = "Ir al "> Inicio</a>
 
-<img src="@ViewBag.VBDisco.Foto"alt=" foto del logo de la pagina ">
-</div>
+  <div class="todoHeader">
+
+    <h1> @ViewBag.VBDisco.Nombre</h1> 
+   <h3>Artista:@ViewBag.VBDisco.Artista</h2>    
+   <h3>Género:@ViewBag.VBDisco.Genero</h2>    
+   <h3>Productor:@ViewBag.VBDisco.Productor</h2>      
+
+   <img src="@ViewBag.VBDisco.Foto"alt=" foto del logo de la pagina ">
+  </div>
+
 </header>
 <body>
-@foreach ( Canciones cancion in ViewBag.VBDisco.CancionesD1)
-{
-   <ol> <h2>@cancion.Nombre</h2> </ol>        
-}
-
+  <div class="h2">
+    <h2>Lista de Canciones</h2>
+  </div>
+  
+  
+    <ol>
+      @foreach ( Canciones cancion in ViewBag.VBDisco.CancionesD1)
+      {
+        <li>@cancion.Nombre</li>        
+      }
+    </ol>
+  
+ 
 </body>

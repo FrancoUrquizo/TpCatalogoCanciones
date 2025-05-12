@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LZ2XwctL36iRScpL80E6f09wuRVGt7uy8oJ6no/4DLM=",
+  "Hash": "WErZfUFlBq+I7ig+KP+qf6UzQ99NNpI6ymolt8Hk/gg=",
   "Source": "TP03 - Music StoreBrasburgUrquizo",
   "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
   "Mode": "Default",
@@ -8,488 +8,2693 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "TP03 - Music StoreBrasburgUrquizo\\wwwroot",
+      "Name": "TP03 - Music StoreBrasburgUrquizo/wwwroot",
       "Source": "TP03 - Music StoreBrasburgUrquizo",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\css\\Estilo.css",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/css/Estilo.css",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "css/Estilo.css",
+      "RelativePath": "css/Estilo#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4so7lrrtwv",
+      "Integrity": "zBXRr9hVTjSITm7G3QC7gNBijoA7tDMeY93Hjb1zcp8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Estilo.css"
+      "OriginalItemSpec": "wwwroot/css/Estilo.css"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\css\\site.css",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/css/site.css",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "a38qo91zj2",
+      "Integrity": "iqhpOBG1/Br7hvXFOGW6aoriLrZkTuiT2EVQ8JyUuhY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\favicon.ico",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/favicon.ico",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\backinblack.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/backinblack.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/backinblack.jpg",
+      "RelativePath": "imagenes/backinblack#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "hi11wwwyxr",
+      "Integrity": "6d1MeX5jzGBfIZWXJJjO34aypsaomu0fPfF7l/v0+Qw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\backinblack.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/backinblack.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\darkside.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/ClicsModernos.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/darkside.jpg",
+      "RelativePath": "imagenes/ClicsModernos#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ur142efjl1",
+      "Integrity": "+st0auTkV34AO1FsRW92u6dyX1/lNSJyIlx7OWFQyAE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\darkside.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/ClicsModernos.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\highway61.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/darkside.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/highway61.jpg",
+      "RelativePath": "imagenes/darkside#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "0h9ag3kl18",
+      "Integrity": "dMpKXWhwjCJ8eCPGb4hCtDiUSxbjEfmGsbNBktHJ368=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\highway61.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/darkside.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\imagine.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/highway61.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/imagine.jpg",
+      "RelativePath": "imagenes/highway61#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1u0mf7mufs",
+      "Integrity": "uXhwo8qrpJF3pT8+3Dfz31n5vmnzh+9RIla0bZRdkM8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\imagine.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/highway61.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\ledzeppelin2.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/imagine.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/ledzeppelin2.jpg",
+      "RelativePath": "imagenes/imagine#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "xjnmtmk8l6",
+      "Integrity": "Q0oyonSKEJmSDT9jBvY4n/zMXhTjIqPLkP8mP9SUBEY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\ledzeppelin2.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/imagine.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\logopagina.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/ledzeppelin2.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/logopagina.jpg",
+      "RelativePath": "imagenes/ledzeppelin2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "evwrolyjzc",
+      "Integrity": "1rSzyoZR0QCTvym/Yid8JCc06woRe4BqNMaDDW9dFF8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\logopagina.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/ledzeppelin2.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\nevermind.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/logopagina.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/nevermind.jpg",
+      "RelativePath": "imagenes/logopagina#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "eanmpy9waq",
+      "Integrity": "ZjCMbkyRvSls+6J5O5jacYB3C+P6LfxlfEHkcwmrNnA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\nevermind.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/logopagina.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\revolver.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/nevermind.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/revolver.jpg",
+      "RelativePath": "imagenes/nevermind#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "794mf478gm",
+      "Integrity": "9dFBNsXbEYfLYKDIiF0kQSrTgVyAeQIVflxHbU2Z3uA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\revolver.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/nevermind.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\imagenes\\thriller.jpg",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/revolver.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "imagenes/thriller.jpg",
+      "RelativePath": "imagenes/revolver#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "k80bbxx9xm",
+      "Integrity": "DMuEZySCuubpt5uNMG4KQK9VTgGtpV9CfSHPi7DGU/Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\thriller.jpg"
+      "OriginalItemSpec": "wwwroot/imagenes/revolver.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\js\\site.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/thriller.jpg",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "js/site.js",
+      "RelativePath": "imagenes/thriller#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "u1ghftubzs",
+      "Integrity": "fvGajhLI9DWMNNK2lfoPvFCPjaRvVtcfqBbHArjeBE0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/imagenes/thriller.jpg"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/js/site.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "xtxxf3hu2r",
+      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "356vix0kms",
+      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ay5nd8zt9x",
+      "Integrity": "4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "9oaff4kq20",
+      "Integrity": "N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "pzqfkb6aqo",
+      "Integrity": "m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "b7iojwaux1",
+      "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "x0q3zqp4vz",
+      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "fwhahm2icz",
+      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "TP03 - Music StoreBrasburgUrquizo",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\wwwroot\\",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
       "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
-      "RelativePath": "lib/jquery/LICENSE.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "5pze98is44",
+      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Identity": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "TP03 - Music StoreBrasburgUrquizo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/",
+      "BasePath": "_content/TP03 - Music StoreBrasburgUrquizo",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv21k5csn",
+      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/Estilo.4so7lrrtwv.css",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/css/Estilo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBXRr9hVTjSITm7G3QC7gNBijoA7tDMeY93Hjb1zcp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4so7lrrtwv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Estilo.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBXRr9hVTjSITm7G3QC7gNBijoA7tDMeY93Hjb1zcp8="
+        }
+      ]
+    },
+    {
+      "Route": "css/Estilo.css",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/css/Estilo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zBXRr9hVTjSITm7G3QC7gNBijoA7tDMeY93Hjb1zcp8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zBXRr9hVTjSITm7G3QC7gNBijoA7tDMeY93Hjb1zcp8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.a38qo91zj2.css",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqhpOBG1/Br7hvXFOGW6aoriLrZkTuiT2EVQ8JyUuhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a38qo91zj2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqhpOBG1/Br7hvXFOGW6aoriLrZkTuiT2EVQ8JyUuhY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iqhpOBG1/Br7hvXFOGW6aoriLrZkTuiT2EVQ8JyUuhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iqhpOBG1/Br7hvXFOGW6aoriLrZkTuiT2EVQ8JyUuhY="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/backinblack.hi11wwwyxr.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/backinblack.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6d1MeX5jzGBfIZWXJJjO34aypsaomu0fPfF7l/v0+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hi11wwwyxr"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/backinblack.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6d1MeX5jzGBfIZWXJJjO34aypsaomu0fPfF7l/v0+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/backinblack.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/backinblack.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6d1MeX5jzGBfIZWXJJjO34aypsaomu0fPfF7l/v0+Qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6d1MeX5jzGBfIZWXJJjO34aypsaomu0fPfF7l/v0+Qw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/ClicsModernos.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/ClicsModernos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+st0auTkV34AO1FsRW92u6dyX1/lNSJyIlx7OWFQyAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:34:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+st0auTkV34AO1FsRW92u6dyX1/lNSJyIlx7OWFQyAE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/ClicsModernos.ur142efjl1.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/ClicsModernos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+st0auTkV34AO1FsRW92u6dyX1/lNSJyIlx7OWFQyAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 23:34:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ur142efjl1"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/ClicsModernos.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+st0auTkV34AO1FsRW92u6dyX1/lNSJyIlx7OWFQyAE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/darkside.0h9ag3kl18.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/darkside.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dMpKXWhwjCJ8eCPGb4hCtDiUSxbjEfmGsbNBktHJ368=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h9ag3kl18"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/darkside.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dMpKXWhwjCJ8eCPGb4hCtDiUSxbjEfmGsbNBktHJ368="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/darkside.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/darkside.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dMpKXWhwjCJ8eCPGb4hCtDiUSxbjEfmGsbNBktHJ368=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dMpKXWhwjCJ8eCPGb4hCtDiUSxbjEfmGsbNBktHJ368="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/highway61.1u0mf7mufs.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/highway61.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uXhwo8qrpJF3pT8+3Dfz31n5vmnzh+9RIla0bZRdkM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1u0mf7mufs"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/highway61.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uXhwo8qrpJF3pT8+3Dfz31n5vmnzh+9RIla0bZRdkM8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/highway61.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/highway61.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uXhwo8qrpJF3pT8+3Dfz31n5vmnzh+9RIla0bZRdkM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uXhwo8qrpJF3pT8+3Dfz31n5vmnzh+9RIla0bZRdkM8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/imagine.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/imagine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0oyonSKEJmSDT9jBvY4n/zMXhTjIqPLkP8mP9SUBEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0oyonSKEJmSDT9jBvY4n/zMXhTjIqPLkP8mP9SUBEY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/imagine.xjnmtmk8l6.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/imagine.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0oyonSKEJmSDT9jBvY4n/zMXhTjIqPLkP8mP9SUBEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xjnmtmk8l6"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/imagine.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0oyonSKEJmSDT9jBvY4n/zMXhTjIqPLkP8mP9SUBEY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/ledzeppelin2.evwrolyjzc.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/ledzeppelin2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1rSzyoZR0QCTvym/Yid8JCc06woRe4BqNMaDDW9dFF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "evwrolyjzc"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/ledzeppelin2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rSzyoZR0QCTvym/Yid8JCc06woRe4BqNMaDDW9dFF8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/ledzeppelin2.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/ledzeppelin2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1rSzyoZR0QCTvym/Yid8JCc06woRe4BqNMaDDW9dFF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1rSzyoZR0QCTvym/Yid8JCc06woRe4BqNMaDDW9dFF8="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/logopagina.eanmpy9waq.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/logopagina.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjCMbkyRvSls+6J5O5jacYB3C+P6LfxlfEHkcwmrNnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eanmpy9waq"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/logopagina.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjCMbkyRvSls+6J5O5jacYB3C+P6LfxlfEHkcwmrNnA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/logopagina.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/logopagina.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjCMbkyRvSls+6J5O5jacYB3C+P6LfxlfEHkcwmrNnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjCMbkyRvSls+6J5O5jacYB3C+P6LfxlfEHkcwmrNnA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/nevermind.794mf478gm.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/nevermind.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9dFBNsXbEYfLYKDIiF0kQSrTgVyAeQIVflxHbU2Z3uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "794mf478gm"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/nevermind.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9dFBNsXbEYfLYKDIiF0kQSrTgVyAeQIVflxHbU2Z3uA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/nevermind.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/nevermind.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9dFBNsXbEYfLYKDIiF0kQSrTgVyAeQIVflxHbU2Z3uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9dFBNsXbEYfLYKDIiF0kQSrTgVyAeQIVflxHbU2Z3uA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/revolver.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/revolver.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMuEZySCuubpt5uNMG4KQK9VTgGtpV9CfSHPi7DGU/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMuEZySCuubpt5uNMG4KQK9VTgGtpV9CfSHPi7DGU/Q="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/revolver.k80bbxx9xm.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/revolver.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMuEZySCuubpt5uNMG4KQK9VTgGtpV9CfSHPi7DGU/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k80bbxx9xm"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/revolver.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMuEZySCuubpt5uNMG4KQK9VTgGtpV9CfSHPi7DGU/Q="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/thriller.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/thriller.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fvGajhLI9DWMNNK2lfoPvFCPjaRvVtcfqBbHArjeBE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fvGajhLI9DWMNNK2lfoPvFCPjaRvVtcfqBbHArjeBE0="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/thriller.u1ghftubzs.jpg",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/imagenes/thriller.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fvGajhLI9DWMNNK2lfoPvFCPjaRvVtcfqBbHArjeBE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1ghftubzs"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/thriller.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fvGajhLI9DWMNNK2lfoPvFCPjaRvVtcfqBbHArjeBE0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "47otxtyo56"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "356vix0kms"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ay5nd8zt9x"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9oaff4kq20"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7iojwaux1"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzqfkb6aqo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0q3zqp4vz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwhahm2icz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pze98is44"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv21k5csn"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/wwwroot/lib/jquery/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 22:25:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
     }
   ]
 }

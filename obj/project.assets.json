@@ -8,31 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\49006634\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/francourquizo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\TP03 - Music StoreBrasburgUrquizo.csproj",
+      "projectUniqueName": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/TP03 - Music StoreBrasburgUrquizo.csproj",
       "projectName": "TP03 - Music StoreBrasburgUrquizo",
-      "projectPath": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\TP03 - Music StoreBrasburgUrquizo.csproj",
-      "packagesPath": "C:\\Users\\49006634\\.nuget\\packages\\",
-      "outputPath": "Z:\\2025\\Prog II\\TP03 - Music StoreBrasburgUrquizo\\obj\\",
+      "projectPath": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/TP03 - Music StoreBrasburgUrquizo.csproj",
+      "packagesPath": "/Users/francourquizo/.nuget/packages/",
+      "outputPath": "/Users/francourquizo/Documents/Franco Tareas_Tp_cole/Prog II/TP03 - Music StoreBrasburgUrquizo/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\49006634\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/francourquizo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -50,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -74,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

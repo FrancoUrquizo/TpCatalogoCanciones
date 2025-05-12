@@ -74,8 +74,13 @@ public static class Catalogo
         List<Canciones> CancionesD8 = new List<Canciones> { D8C1, D8C2, D8C3, D8C4 };
         Disco disco8 = new Disco("Imagine", "/imagenes/imagine.jpg", "John Lennon", "Rock", "Phil Spector", 8, CancionesD8);
 
-
-       
+        // Disco 9
+        Canciones D9C1 = new Canciones("Nos siguen pegando abajo");
+        Canciones D9C2 = new Canciones("No soy un extraño");
+        Canciones D9C3 = new Canciones("Dos cero uno");
+        Canciones D9C4 = new Canciones("Nuevos Trapos");
+        List<Canciones> CancionesD9 = new List<Canciones> { D9C1, D9C2, D9C3, D9C4 };
+        Disco disco9 = new Disco("Clics modernos", "/imagenes/ClicsModernos.jpg", "Charly Garcia", "Rock", "SG Discos", 9, CancionesD9);
 
        DicDiscos.Add(disco1.Id, disco1);
        DicDiscos.Add(disco2.Id, disco2);
@@ -85,6 +90,7 @@ public static class Catalogo
        DicDiscos.Add(disco6.Id, disco6);
        DicDiscos.Add(disco7.Id, disco7);
        DicDiscos.Add(disco8.Id, disco8);
+       DicDiscos.Add(disco9.Id, disco9);
 
 
 

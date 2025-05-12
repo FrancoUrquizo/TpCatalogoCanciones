@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP03 - Music StoreBrasburgUrquizo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9eec5174c919b011832c6df6d52405fbca4f0e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e22f740f7cda52e2b8260089a0856e194506853")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP03 - Music StoreBrasburgUrquizo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP03 - Music StoreBrasburgUrquizo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

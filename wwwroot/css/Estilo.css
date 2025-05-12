@@ -1,19 +1,53 @@
 *{
     margin: 0%;
     padding: 0%;
-    background-color: bisque;
+    background-color: #0D1B2A;
 }
 
-header div  {
-text-align: center;
+header a{
+    font-size: 20px;
+    color: blue;
+}
+body {
+    background-color: #0D1B2A; 
+    color: white; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
 
-img{
-    width: 20%;
-    height: 20%;
+header {
+    margin-bottom: 1px; 
 }
 
-.infoDisco{
-    background-color: white;
+header div {
+    text-align: center; 
+}
+
+
+.infoDisco {
+    display: inline-block; 
+    background-color: transparent; 
+    padding: 15px; 
+    margin: 10px; 
+    width: 25%; 
+    
+}
+
+.dada {
+    display: inline-block; 
+    background-color: #007bff; 
+    color: white; 
+    padding: auto;
+    margin: 3%; 
+    padding: 10px ; 
+    border: none; 
+    text-decoration: none;
+    border-radius: 50px; 
    
+}
+
+.imgDiscos {
+    width: 70%; 
+    margin: 20px ; 
+    border-radius: 10px; 
 }
